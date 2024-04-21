@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
 <img align="left" height="241" src="https://media1.tenor.com/m/38_Y3UbLzCgAAAAC/sukuna-ryomen-sukuna.gif"  />
 
 ###
