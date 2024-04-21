@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="center">Sophomore | Tech |  App Dev | ML</h3>
+<h3 align="center">Sophomore | Tech |  App Dev | ML</h4>
 
 ###
 
