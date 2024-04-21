@@ -16,9 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mixter3011.mixter3011&left_color=antiquewhite&right_color=aquamarine&left_text=Views"  />
-</div>
 
 ###
 
