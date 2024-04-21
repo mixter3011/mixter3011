@@ -27,7 +27,7 @@
 
 ###
 
-<h6 align="center">Learning Native App Dev with experience in Cross-Platform App Dev, have thorough knowledge in Go  & Python, Currently focusing on Machine Learning specifically LLM's and Gen AI Model. I love to discuss Scientific Theories , Discoveries & Innovations etc. Average  Weeknd enjoyer</h6>
+<h6 align="center">Learning Native App Dev with experience in Cross-Platform App Dev, have thorough  knowledge in Go  & Python, Currently focusing on Machine Learning specifically LLM's and Gen AI Model. I love to discuss Scientific Theories , Discoveries & Innovations etc. Average  Weeknd enjoyer</h6>
 
 ###
 
